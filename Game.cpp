@@ -187,7 +187,7 @@ void Game::chooseStarter(){
     setName(playerName);
     std::cout << m_name << "? Nice to meet you!" << std::endl;
                  
-    std::cout << "I am Professor Daddy Matt 69 and I'd like to introduce you to your very own pokemon!\n"
+    std::cout << "I am Professor Matt and I'd like to introduce you to your very own pokemon!\n"
                  "You can choose one of 3 pokemon to begin your journey with:\n" << std::endl;
 
     int choice = 0;
